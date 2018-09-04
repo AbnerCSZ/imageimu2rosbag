@@ -21,5 +21,5 @@ source devel/setup.bash
 ### Usage
 ```
 roscore
-rosrun torosbag torosbag 
+rosrun torosbag torosbag <path to  directory including image file and imu file>     <path and name to bag>     <the numbers of camera>
 ```
