@@ -2,7 +2,8 @@
 A simplified version of [kitti2bag](https://github.com/tomas789/kitti2bag)
 
 ### Dependencies
-ROS
+1.ROS
+2.OpenCV
 
 
 ### Build
